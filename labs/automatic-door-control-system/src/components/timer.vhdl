@@ -1,11 +1,4 @@
 ------------------------------------------------------------------------
--- University  : University of Alberta
--- Course      : ECE 410: Advanced Digital Logic Design
--- Project     : Door Controller
--- Authors     : Abdul Bello, Alastair Cottier
--- Students ID : 1664803, 1668621
--- Date        : 11/08/2024
-------------------------------------------------------------------------
 -- Description : Timer, countrs to 5 seconds
 ------------------------------------------------------------------------
 library ieee;

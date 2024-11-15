@@ -1,15 +1,3 @@
-------------------------------------------------------------------------
--- University  : University of Alberta
--- Course      : ECE 410: Advanced Digital Logic Design
--- Project     : Random Number Generator
--- Authors     : Abdul Bello, Alastair Cottier
--- Students ID : 1664803, 1668621
--- Date        : 11/08/2024
-------------------------------------------------------------------------
--- Description : lsfr_a
-------------------------------------------------------------------------
-
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

@@ -45,24 +45,6 @@ A finite state machine implementation of an automatic door control system with e
 - Pmod SSD (Seven-Segment Display)
 - Analog Discovery 2 (for testing)
 
-#### Files Structure
-
-├── src/
-│   ├── lfsr/
-│   │   ├── lfsr.vhd
-│   │   └── lfsr_tb.vhd
-│   ├── counter/
-│   │   ├── fsm_counter.vhd
-│   │   └── fsm_counter_tb.vhd
-│   └── door/
-│       ├── door_controller.vhd
-│       ├── timer.vhd
-│       └── door_controller_tb.vhd
-├── constraints/
-│   └── Zybo-Z7-Master.xdc
-└── display/
-    └── display_driver.vhd
-
 #### Constraint File Setup
 
 - Modify the Zybo-Z7-Master.xdc file to match your pin assignments

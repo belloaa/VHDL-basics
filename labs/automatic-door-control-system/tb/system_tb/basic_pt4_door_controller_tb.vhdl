@@ -1,13 +1,3 @@
-------------------------------------------------------------------------
--- University  : University of Alberta
--- Course      : ECE 410: Advanced Digital Logic Design
--- Project     : Door Controller
--- Authors     : Abdul Bello, Alastair Cottier
--- Students ID : 1664803, 1668621
--- Date        : 11/08/2024
-------------------------------------------------------------------------
--- Description : Testing Basic Door operations.
-------------------------------------------------------------------------
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

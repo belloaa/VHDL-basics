@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
--- Description : Timer, countrs to 5 seconds
+-- Description : Timer, counts to 5 seconds
 ------------------------------------------------------------------------
 library ieee;
 use ieee.std_logic_1164.all;
